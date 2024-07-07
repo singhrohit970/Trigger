@@ -3,6 +3,7 @@ public static void main(Strings args[]){
 	System.out.print("Trigger");
 	System.out.Print(TriggerProgram);
         System.out.Print('Respect the opportunity');
-System.out.println('Test')	
+        System.out.println('Test');
+		System.debug('Vs code');	
 }
 }

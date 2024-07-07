@@ -1,6 +1,7 @@
 public class Trigger{
 public static void main(Strings args[]){
 	System.out.print("Trigger");
-	System.out.Print(TriggerProgram);	
+	System.out.Print(TriggerProgram);
+        System.out.Print('Respect the opportunity');	
 }
 }
